@@ -13,7 +13,9 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yuusei981203.hoshoucho"
+
     },
     "android": {
       "adaptiveIcon": {
